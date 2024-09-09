@@ -1,0 +1,2 @@
+# QCNNvsCNN_on_Malaria_image_data
+QCNNvsCNN_on_Malaria_image_data
